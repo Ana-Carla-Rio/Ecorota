@@ -1,0 +1,10 @@
+# Projeto Integrador 3: Implementação de Projetos de TI
+
+## Visão Geral
+Esta pasta concentra o planejamento tático, a definição de requisitos técnicos e a arquitetura de infraestrutura necessária para a implementação da plataforma **EcoRota**.
+
+## Conteúdos e Etapas Desenvolvidas
+* **Gestão de Projetos:** Definição do escopo, premissas, restrições, Estrutura Analítica do Projeto (EAP), marcos (*milestones*) e cronograma detalhado de entregas em ciclos ágeis.
+* **Engenharia de Software:** Levantamento formal de requisitos funcionais (RF) e não funcionais (RNF).
+* **Infraestrutura e Servidores:** Dimensionamento de hardware em nuvem (servidores web, de aplicação, banco de dados relacional e não relacional, além de políticas de armazenamento e backup).
+* **Gestão de Serviços:** Estabelecimento de Acordos de Nível de Serviço (SLAs) e diretrizes de monitoramento contínuo de desempenho.

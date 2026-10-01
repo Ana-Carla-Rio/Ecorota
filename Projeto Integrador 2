@@ -1,0 +1,10 @@
+# Projeto Integrador 2: Concepção de Serviços de Tecnologia da Informação
+
+## Visão Geral
+Esta pasta documenta a fase inicial de concepção do aplicativo **EcoRota**, aplicando metodologias de design e estruturação de modelos de negócios voltados à mobilidade urbana sustentável.
+
+## Conteúdos e Etapas Desenvolvidas
+* **Imersão e Pesquisa:** Aplicação de pesquisas de campo, formulários com usuários e construção de diagramas de afinidades para levantamento de dores do público-alvo.
+* **Ideação:** Utilização de ferramentas de ideação para estruturação da proposta de valor focada nos Objetivos de Desenvolvimento Sustentável (ODS), com ênfase no ODS 3 (Saúde e Bem-Estar).
+* **Engenharia e Prototipagem:** Desenvolvimento de telas prototipadas do aplicativo, lógica inicial implementada em linguagem Python e especificação de requisitos de infraestrutura inicial em nuvem (Google Cloud Platform).
+* **Plano Financeiro e Canvas:** Elaboração do *Business Model Canvas*, projeções de fluxo de caixa, custos de infraestrutura e análise de viabilidade financeira.

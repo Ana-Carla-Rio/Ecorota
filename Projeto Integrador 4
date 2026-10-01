@@ -1,0 +1,10 @@
+# Projeto Integrador 4: Desenvolvimento de Serviços de Tecnologia da Informação
+
+## Visão Geral
+Esta pasta consolida a estruturação corporativa da empresa fictícia **EcoTech** e a maturidade operacional do suporte tecnológico e governança para a operação em larga escala do aplicativo **EcoRota**.
+
+## Conteúdos e Etapas Desenvolvidas
+* **Estrutura Organizacional e Salarial:** Definição do organograma funcional da empresa e dimensionamento da tabela salarial para os setores de liderança, tecnologia, administração e marketing.
+* **Service Desk e Catálogo de Serviços:** Estruturação formal do suporte de TI com base no framework ITIL 4, definindo canais de atendimento, horários, catálogo de serviços suportados e não suportados.
+* **Práticas Operacionais:** Mapeamento detalhado dos fluxos de Gerenciamento de Incidentes e Cumprimento de Requisições (com níveis N1 e N2).
+* **Governança e Gestão de Riscos:** Elaboração da Matriz de Riscos (Probabilidade x Impacto), Matriz RACI para atribuição de responsabilidades e Matriz SWOT com cruzamentos estratégicos internos e externos.
